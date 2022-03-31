@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 int tmp_prime(int n, int i);
 
@@ -40,5 +40,4 @@ int is_prime_number(int n)
 	else
 	{
 		return (divisors(3, n));
-	}
-}
+	}}
